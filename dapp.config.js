@@ -9,7 +9,9 @@ const config = {
   firstCost :0 ,
   wlcost: 0.01,
   publicSalePrice:0.02,
-  maxPerTxWL : 5 
+  maxPerTxWL : 5
+
+
 }
 
 const onboardOptions = {
