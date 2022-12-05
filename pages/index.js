@@ -143,7 +143,7 @@ useEffect(() => {
             bg-gray-800 bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border-2 border-gray-100 backdrop-saturate-150">
             <img
                 src="/TrtLogo.png"
-                  className="w-full mt-auto mb-0 sm:h-[58px] md:w-[140px] mx-auto mt-2"
+                  className="w-full mt-auto mb-0 sm:h-[58px] md:w-[160px] mx-auto mt-2"
                 />
 	    <h1 className="tracking-wide font-Righteous uppercase font-bold text-3xl md:text-4xl text-brand-02 bg-clip-text mt-4 border-2 border-blue-300 p-3 rounded-md">
             {!walletAddress? 'Mint is Live!' : isDefPublicSale? 'PubLic Sale' : paused ? 'Paused' : isWlMint && isValid ? 'WhiteListed-Sale'  : 'Public Sale'} </h1>
