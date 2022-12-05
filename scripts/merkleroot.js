@@ -6,7 +6,7 @@ const whitelist = require('./whitelist.js')
 async function main() {
   const nftFactory = await hre.ethers.getContractFactory('TheRainbowTribe')
   const nftContract = await nftFactory.attach(
-    '0x99512aaC7F817D29fF69245EB39A16B7C43e85b7' //here ok
+    '0x99512aaC7F817D29fF69245EB39A16B7C43e85b7' //
     
   )
 

@@ -142,7 +142,7 @@ useEffect(() => {
 	   <div className="z-1 md:max-w-3xl w-full bg-black/75 filter  py-4 rounded-md px-2 md:px-10 flex flex-col items-center
             bg-gray-800 bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border-2 border-gray-100 backdrop-saturate-150">
             <img
-                src="https://s1.gifyu.com/images/Logod4f1d67ea0ad37fc.png"
+                src="/TrtLogo.png"
                   className="w-full mt-auto mb-0 sm:h-[58px] md:w-[100px] mx-auto mt-2"
                 />
 	    <h1 className="tracking-wide font-Righteous uppercase font-bold text-3xl md:text-4xl text-brand-02 bg-clip-text mt-4 border-2 border-blue-300 p-3 rounded-md">
@@ -165,7 +165,7 @@ useEffect(() => {
                 </div>
 
                 <img
-                src="https://s1.gifyu.com/images/nft.gif"
+                src="/TRTGIF.gif"
                   className="object-cover w-full mt-auto mb-0 sm:h-[280px] md:w-[250px] rounded-md border border-gray-100"
                 />
                 </div>
